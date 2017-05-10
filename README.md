@@ -13,11 +13,11 @@ Any great paper which I have read
   判断正则表达式是否相等  
   
 4. Cryptology  
-*  **des** 加密解密算法 | [des.pdf](https://github.com/Guguant/anypapers/blob/master/des.pdf) | [details](https://github.com/Guguant/anypapers/tree/master/DES)  
-*  [AES](https://github.com/Guguant/anypapers/tree/master/AES)
+   * **des** 加密解密算法 | [des.pdf](https://github.com/Guguant/anypapers/blob/master/des.pdf) | [details](https://github.com/Guguant/anypapers/tree/master/DES)  
+   * [AES](https://github.com/Guguant/anypapers/tree/master/AES)
   
-5. sga  
-  [simple genetic algorithm](https://github.com/Guguant/anypapers/tree/master/sga)  
+5.  [simple genetic algorithm](https://github.com/Guguant/anypapers/tree/master/sga)  
+  sga 分离图片前景和背景  
   
 6. [用户推荐.pdf](https://github.com/Guguant/anypapers/blob/master/用户推荐.pdf)  
   用户推荐算法研究  
