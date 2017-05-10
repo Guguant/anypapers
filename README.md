@@ -12,11 +12,15 @@ Any great paper which I have read
 3. [dcc-2007-07.pdf](https://github.com/Guguant/anypapers/blob/master/dcc-2007-07.pdf)  
   判断正则表达式是否相等  
   
-4. [des.pdf](https://github.com/Guguant/anypapers/blob/master/des.pdf)  
-  **des** 加密解密算法
+4. Cryptology  
+*  **des** 加密解密算法 | [des.pdf](https://github.com/Guguant/anypapers/blob/master/des.pdf) | [details](https://github.com/Guguant/anypapers/tree/master/DES)  
+*  [AES](https://github.com/Guguant/anypapers/tree/master/AES)
   
-5. [用户推荐.pdf](https://github.com/Guguant/anypapers/blob/master/用户推荐.pdf)  
+5. sga  
+  [simple genetic algorithm](https://github.com/Guguant/anypapers/tree/master/sga)  
+  
+6. [用户推荐.pdf](https://github.com/Guguant/anypapers/blob/master/用户推荐.pdf)  
   用户推荐算法研究  
   
-6. [编译原理.svg](https://github.com/Guguant/anypapers/blob/master/编译原理.svg)  
+7. [编译原理.svg](https://github.com/Guguant/anypapers/blob/master/编译原理.svg)  
   编译原理大纲 by Mr. Xiaoxi Huang.  
